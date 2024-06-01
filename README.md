@@ -5,7 +5,8 @@ To update your java instance, you need to get a new JDK for the respective Java 
 ### 1. Downloading JDK
 There are many places to download a jdk such as openjdk and adoptium. We are going to use adoptium. Go to this link: https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jdk
 
-:warning: **Make sure you are downloading the jdk for the right OPERATING SYSTEM, ARCHITECTURE (its usually x64), PACKAGE TYPE (jdk), and VERSION (21 - LTS)**
+> [!WARNING]
+> **Make sure you are downloading the jdk for the right OPERATING SYSTEM, ARCHITECTURE (its usually x64), PACKAGE TYPE (jdk), and VERSION (21 - LTS)**
 
 Once you put the right stuff for the jdk, you can either choose to download with `.msi` or `.zip`. It doesn't really matter I prefer to download the `.msi` file because it gives you a GUI to help you set it up which I highly recommand.
 
